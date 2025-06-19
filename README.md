@@ -26,7 +26,7 @@ However, we did identify instances of **tampered data** requiring immediate atte
 
 To effectively integrate the auditor's report, understanding the database structure is crucial, as it dictates how we access multiple tables. First, we need to grasp the relationships between tables, which will guide our data retrieval. Please refer to the ERD for the `md_water_services` database.  
 
-![Md Water Services ERD](https://www.example.com/)
+![Md Water Services ERD](Md_water_services_ERD.png)
 
 #### Observations:
 
